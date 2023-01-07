@@ -10,6 +10,7 @@
 // Input : "CoDing MET"
 // Output : 5
 
+
 Solution:-
   
 import java.util.Scanner;
